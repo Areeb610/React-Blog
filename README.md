@@ -1,3 +1,6 @@
+## A simple blog website created using React.js. It stores all the blogs data in your localStorage which then you can view by accessing the View Blog page.
+
+----------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
